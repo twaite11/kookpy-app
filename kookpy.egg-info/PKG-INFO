@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: kookpy
+Version: 1.1.0
+Requires-Dist: pandas
+Requires-Dist: tensorflow
+Requires-Dist: joblib
+Requires-Dist: streamlit
+Requires-Dist: requests
+Requires-Dist: scikit-learn
+Requires-Dist: plotly
+Requires-Dist: numpy
+Requires-Dist: bcrypt
+Dynamic: requires-dist

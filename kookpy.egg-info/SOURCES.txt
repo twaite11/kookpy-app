@@ -1,0 +1,8 @@
+README.md
+setup.py
+kookpy/__init__.py
+kookpy.egg-info/PKG-INFO
+kookpy.egg-info/SOURCES.txt
+kookpy.egg-info/dependency_links.txt
+kookpy.egg-info/requires.txt
+kookpy.egg-info/top_level.txt
