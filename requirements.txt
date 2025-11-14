@@ -1,0 +1,11 @@
+# requirements.txt content
+pandas
+tensorflow
+joblib
+streamlit
+requests
+scikit-learn
+plotly
+numpy
+bcrypt
+-e .
