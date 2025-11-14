@@ -456,29 +456,27 @@ def main_app():
 
     with tabs[1]:
         california_beaches = [
-            "huntington beach", "malibu", "santa cruz", "la jolla", "trestles",
-            "steamer lane", "rincon", "newport beach", "pacifica state beach", "point dume",
-            "zuma beach", "el porto", "venice beach", "manhattan beach", "hermosa beach",
+            "huntington beach", "malibu", "montara state beach"
+            "steamer lane", "newport beach", "pacifica state beach",
+            "zuma beach", "venice beach", "manhattan beach", "hermosa beach",
             "redondo beach", "torrance beach", "cabrillo beach", "dana point", "san onofre",
-            "swami's", "cardiff reef", "ponto beach", "oceanside harbor", "black's beach",
+            "swami's", "ponto beach", "oceanside harbor", "black's beach",
             "del mar", "encinitas", "solana beach", "mission beach", "ocean beach",
-            "sunset cliffs", "imperial beach", "fort point", "ocean beach, san francisco",
-            "half moon bay", "mavericks", "bolinas", "stinson beach", "montara",
-            "cowell's beach", "pleasure point", "capitola", "seabright beach", "manresa state beach",
+            "sunset cliffs", "imperial beach", "fort point",
+            "half moon bay", "bolinas", "stinson beach",
+            "cowell's beach", "seabright beach", "manresa state beach",
             "moss landing", "marina state beach", "carmel beach", "asilomar state beach",
-            "morro bay", "pismo beach", "avila beach", "cayucos", "cambria",
+            "pismo beach", "avila beach", "cayucos", "cambria",
             "point conception", "jalama beach", "refugio state beach", "el capitan state beach",
-            "gaviota state park", "carpinteria", "summerland", "leadbetter beach", "campus point",
-            "isla vista", "mondos", "emma wood", "c street, ventura", "silver strand",
+            "gaviota state park","summerland", "leadbetter beach",
             "leo carrillo state park", "el matador state beach", "topanga state beach",
             "surfrider beach", "county line", "zuma", "oxnard shores", "ventura point",
             "rincon point", "pismo state beach", "grover beach", "santa monica state beach",
-            "dockweiler beach", "manhattan beach pier", "venice breakwater", "san clemente pier",
+            "dockweiler beach", "san clemente pier",
             "doheny state beach", "salt creek", "strands beach", "thalia street",
             "brook street", "main beach, laguna", "table rock beach", "aliso beach",
-            "laguna niguel", "dana strands", "san clemente", "huntington cliffs",
-            "seal beach", "alamitos bay", "belmont shore", "long beach", "point mugu",
-            "morro strand state beach", "sunset beach, orange county", "bolsa chica state beach",
+            "seal beach", "belmont shore", "long beach",
+            "morro strand state beach", "sunset beach", "bolsa chica state beach",
             "san elijo state beach"
         ]
         beach_name_select = st.selectbox(
