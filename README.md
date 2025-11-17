@@ -1,6 +1,6 @@
 # Kookpy AI Surf Forecast
 
-Totally Tubular Wave Predictions Powered by Open-Meteo and TensorFlow
+Ai Wave Quality Predictions Powered by Open-Meteo and TensorFlow
 
 ## Project Overview
 
