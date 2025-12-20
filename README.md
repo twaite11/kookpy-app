@@ -98,7 +98,7 @@ Must be done if the data sources or feature engineering logic change.
 
 ### Database Access
 
-Use an SQLite browser tool (or run custom Python script) to access db/user_data.db.
+Use an SQLite browser tool to access db/user_data.db.
 
 DO NOT manually edit hashed_password fields; use the modify_user function for testing.
 
